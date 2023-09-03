@@ -1,0 +1,99 @@
+@media only screen and (max-width:600px){
+    .body{
+        width: 100%;
+        height: 100vh;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+    }
+    .page1{
+        margin-top: 50%;
+    }
+    video{
+        margin-left: 0;
+        width:480px;
+    }
+    .ellipse{
+        width: 275px;
+        height: 175px;
+        margin: 21px;
+        font-size: 25px;
+    }
+    .content{
+        margin-left: 25%;
+    }
+    ul.menu{
+        margin-left: 25%;
+    }
+    .btn1{
+        font-size: 15px;
+        width: 80px;
+        height: 30px;
+        margin-left: 160px;
+        margin-top: 5px;
+    }
+    .quote{
+        font-size: 10px;
+        margin-left: 87px;
+    }
+    section{
+        width: 480px;
+        margin-left: 0;
+    }
+    .imgh,.imgg,.imgf,.imga,.imgm{
+        width:480px;
+        margin-left: 0;
+    }
+    .logo,.btn2{
+        margin-left: 3px;
+    }
+    .quo{
+        margin-left: 20px;
+        margin-top: 52px;
+    }
+    .mask,.past,.satel,.achi,.plans{
+        font-size: 54px;
+    }
+    .satel,.past,.plans,.achi{
+        margin: 30px;
+        margin-left: 5px;
+        padding-left: 10px;
+    }
+    #plans,#satel,#past,#achi{
+        width:320px;
+        margin-left: 25px;
+        margin-top: 10px;
+    }
+    .sat-mis{
+        font-size: 35px;
+    }
+    .anc-mod{
+        font-size:30px ;
+    }
+    .btn3,.btn4,.btnm{
+        padding: 6px;
+        color:solid black;
+        background-color:white;
+        margin-left: 205px; 
+        margin-bottom: 10px; 
+        transition: all 0.5s;
+        cursor: pointer;
+    }
+    .contact{
+        width: 100%;
+        margin-left: 0;
+    }
+    .touch{
+        margin-left: 10px;
+    }
+    .sub{
+        margin-left: 305px;
+        margin-top: 10px;
+    }
+    .social{
+        margin-left: 10px;
+    }
+    .mis,.sion{
+        flex-direction: column;
+    }
+}    

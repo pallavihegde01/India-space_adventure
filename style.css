@@ -350,7 +350,7 @@ ul.menu li a{
     border-radius: 3px;
     padding: 2px;
     text-align: center;
-    margin-left: 505px;
+    margin-left: 240px;
     margin-top: 10px;
 }
 .sub:hover{
@@ -371,25 +371,13 @@ ul.menu li a{
     font-size: 60px;
 }
 .social{
-    margin-left: 250px;
+    margin-left: 149px;
     margin-top: 15px;
 }
 .social a i:hover{
     transform: translate(0,-10px);
 }
-/* @media only screen and (max-width:475px){
-    body{
-        position: absolute;
-        z-index: -2;
-    }
-}
-@media only screen and (max-width:640px){
-    body{
-        position: absolute;
-        z-index: -2;
-    }
-} */
-@media only screen and (max-width:480px){
+@media only screen and (max-width:600px){
     body{
         display: flex;
         flex-wrap: wrap;
