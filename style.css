@@ -359,7 +359,7 @@ ul.menu li a{
 }
 .touch{
     margin: 70px;
-    margin-left: 350px;
+    margin-left: 150px;
 }
 .contact{
     width: 85%;
@@ -371,16 +371,29 @@ ul.menu li a{
     font-size: 60px;
 }
 .social{
-    margin-left: 330px;
+    margin-left: 250px;
     margin-top: 15px;
 }
 .social a i:hover{
     transform: translate(0,-10px);
 }
-@media only screen and (max-width:600px){
+/* @media only screen and (max-width:475px){
     body{
         position: absolute;
-        top: 0;
+        z-index: -2;
+    }
+}
+@media only screen and (max-width:640px){
+    body{
+        position: absolute;
+        z-index: -2;
+    }
+} */
+@media only screen and (max-width:480px){
+    body{
+        display: flex;
+        flex-wrap: wrap;
+        position: absolute;
         z-index: -2;
     }
 }
