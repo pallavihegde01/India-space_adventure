@@ -1,4 +1,4 @@
-# India-space_adventure : [click here!](https://india-space-adventure.netlify.app/)
+# India's space adventure : [click here!](https://india-space-adventure.netlify.app/)
 
 * This is a website project that gives the user a brief overview about India’s space adventure. This project gives information about how India’s space journey started and how far it has come.
 * In beginning the user gets a explore button , which on clicking directs the user to the main page.
